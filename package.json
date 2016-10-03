@@ -1,0 +1,23 @@
+{
+  "name": "iot-hub",
+  "version": "1.0.0",
+  "description": "A open place for your iot devices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vinodsr/iot-hub/"
+  },
+  "keywords": [
+    "iothub"
+  ],
+  "author": "Vinod S R",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
